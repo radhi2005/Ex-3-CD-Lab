@@ -71,9 +71,5 @@ yyerror(char*s)
 # OUTPUT
 ![WhatsApp Image 2025-05-06 at 09 59 35_6b8adb6a](https://github.com/user-attachments/assets/0fa22dbf-14d3-4cb0-a493-051c1bd07aff)
 
-# Result
-A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed
-
-
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
